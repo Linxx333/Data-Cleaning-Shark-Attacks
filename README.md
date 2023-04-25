@@ -3,7 +3,7 @@ This project consist on cleaning data about Shark Attacks
 
 ![Ironhack logo](img/tibu.jpg)
 
-En el siguiente proyecto sobre pandas realizado en IronHack, podremos encontrar un analisis del documento Attacks del Shark Research Institute. https://www.sharks.org/global-shark-attack-file.
+En el siguiente proyecto sobre pandas realizado en IronHack, podremos encontrar un analisis del documento Attacks del Shark Research Institute. https://www.kaggle.com/datasets/teajay/global-shark-attacks.
 
 # Objetivo principal
 
